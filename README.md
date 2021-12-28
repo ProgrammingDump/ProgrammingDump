@@ -1,0 +1,3 @@
+- 👋 I’m Sherdil, an 18 year-old aspiring web designer.
+- 🌱 Learning web designing, web development and c++ programming at the moment.
+- 📫 Contact via e-mail: sherdilk12@gmail.com
