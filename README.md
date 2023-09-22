@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h1 align="center">Hi 👋, I'm <a href="https://ProgrammingDump.github.io/Me.io/" target="blank">
 Sherdil</a></h1>
 <h3 align="center">A passionate Web developer from Pakistan &#127470;&#127475</h3>
