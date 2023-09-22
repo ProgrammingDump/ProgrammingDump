@@ -6,7 +6,7 @@ Sherdil</a></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ProgrammingDump&label=Profile%20views&color=0e75b6&style=flat" alt="ProgrammingDump" /> </p>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif">
 </a>
 
 - 🔭 I’m currently working in <a href="https://qualityresource.net" target="blank">Quality Resource Marketing Inc.</a>
