@@ -8,7 +8,7 @@ Sherdil</a></h1>
   <img align="right" top="500" height="400" width="400" alt="GIF" src="https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif">
 </a>
 
-- 🔭 I’m currently working at <a href="https://qualityresource.net" target="blank">Quality Resource Marketing Inc.</a>
+- 🔭 I’m currently working at <a href="https://www.linkedin.com/company/air-university-software-engineering-society/mycompany" target="blank">AUSES.</a>
 
 - 🌱 I’m currently Working on Website Development (Front+Back).
 
