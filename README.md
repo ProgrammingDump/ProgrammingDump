@@ -18,7 +18,7 @@ Sherdil</a></h1>
 
 - 📫 Reach me via email at **sherdilk12@gmail.com**.
 
-- 📄 Check ouut my portfolio <a href="https://sherdil-portfolio.netlify.com" alt="ProgrammingDump">here!</a>
+- 📄 Check ouut my portfolio <a href="https://www.sherdil-portfolio.netlify.com" alt="ProgrammingDump">here!</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
