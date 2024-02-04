@@ -10,11 +10,11 @@ Sherdil</a></h1>
 
 - 🔭 I’m currently working at <a href="https://www.linkedin.com/company/air-university-software-engineering-society/mycompany" target="blank">AUSES.</a>
 
-- 🌱 I’m currently Working on Website Development (Front+Back).
+- 🌱 I’m currently Working with Website Development (Front+Back).
 
 - 🤝 I’m open for freelancing opportunities.
 
-- 💬 Ask me about my progress learning **ReactJs & .NET**.
+- 💬 Ask me about my progress learning **MERN Stack**.
 
 - 📫 Reach me via email at **sherdilk12@gmail.com**.
 
