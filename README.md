@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm <a href="https://ProgrammingDump.github.io/Me.io/" target="blank">
-Sherdil</a></h1>
+<h1 align="center">Hi 👋, I'm 
+Sherdil</h1>
 <h3 align="center">A passionate Web developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ProgrammingDump&label=Profile%20views&color=0e75b6&style=flat" alt="ProgrammingDump" /> </p>
@@ -18,7 +18,7 @@ Sherdil</a></h1>
 
 - 📫 Reach me via email at **sherdilk12@gmail.com**.
 
-- 📄 Check out my portfolio <a href="https://sherdil-portfolio.netlify.com" alt="ProgrammingDump">here!</a>
+- 📄 Check out my portfolio <a href="https://sherdil.netlify.com" alt="ProgrammingDump">here!</a>
 <br/>
 <h3 align="center" > Connect with me 🤝 </h3>
 
