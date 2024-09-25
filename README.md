@@ -8,19 +8,15 @@ Sherdil</h1>
   <img align="right" top="500" height="400" width="400" alt="GIF" src="https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif">
 </a>
 
-- 🔭 I’m currently working at <a href="https://www.linkedin.com/company/air-university-software-engineering-society/mycompany" target="blank">AUSES.</a>
-
-- 🌱 I’m currently Working with Website Development (Front+Back).
-
 - 🤝 I’m open for freelancing opportunities.
 
-- 💬 Ask me about my progress learning **MERN Stack**.
+- 💬 Ask me about my progress learning **NextJs**.
 
 - 📫 Reach me via email at **sherdilk12@gmail.com**.
 
 - 📄 Check out my portfolio <a href="https://sherdil.netlify.com" alt="ProgrammingDump">here!</a>
 <br/>
-<h3 align="center" > Connect with me 🤝 </h3>
+<h3 align="center" > Connect me 🤝 </h3>
 
 <p align="center">
 
